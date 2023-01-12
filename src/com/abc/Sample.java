@@ -8,4 +8,10 @@ public class Sample {
 		System.out.println("Testcase");
 		System.out.println("Execution");
 	}
+	
+	public static void main(String[] args) {
+		
+		int age = 22;
+		System.out.println(age);
+	}
 }
